@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./github-header-image.png">
+![](./github-header-image.png)
 
 * ITMO University student
 * Alghorithms and data structures mentor
