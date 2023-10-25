@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://disk.yandex.ru/i/Kl2jvq74Fa_Y2w">
+<img align="right" alt="Coding" width="400" src="./github-header-image.png">
 
 * ITMO University student
 * Alghorithms and data structures mentor
