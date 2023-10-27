@@ -1,4 +1,4 @@
-![](./github-header-image (6).png)
+![](./github-header-image.png)
 
 * ITMO University student
 * Alghorithms and data structures mentor
