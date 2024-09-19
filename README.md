@@ -1,7 +1,8 @@
 ![](./github-header-image.png)
 
 * ITMO University student
-* Alghorithms and data structures mentor
+* Alghorithms and data structures teacher
+* Data Bases menthor
 
 
 
